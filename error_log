@@ -1,0 +1,4 @@
+[10-Oct-2017 10:38:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/richardobiye/testsite.richardobiye.com/contact-form.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/richardobiye/testsite.richardobiye.com/contact-form.php on line 16
